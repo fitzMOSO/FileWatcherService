@@ -83,3 +83,4 @@ publish/
 
 # Visual Studio History (VSHistory) files
 .vshistory/ 
+.fake
